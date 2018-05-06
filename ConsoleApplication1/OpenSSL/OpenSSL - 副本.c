@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <sys/types.h>
-
+#include<unistd.h>
 void getMD5(const char* str, char* result)
 {
 	MD5_CTX ctx;    // ≥ı ºªØ    
