@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/5/5 15:04:39。
+     1>项目“c:\Users\96027\documents\visual studio 2015\Projects\ConsoleApplication1\OpenSSL\OpenSSL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt OpenSSL.c
+         OpenSSL.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\96027\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\OpenSSL.exe" /INCREMENTAL /NOLOGO libssl.lib libcrypto.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\96027\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\OpenSSL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\96027\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\OpenSSL.lib" /MACHINE:X86 Debug\OpenSSL.obj
+         OpenSSL.vcxproj -> c:\users\96027\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\OpenSSL.exe
+     1>已完成生成项目“c:\Users\96027\documents\visual studio 2015\Projects\ConsoleApplication1\OpenSSL\OpenSSL.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.93
